@@ -1,0 +1,5 @@
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\DataConversionToByte\bin\Debug\DataConversionToByte.exe.config
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\DataConversionToByte\bin\Debug\DataConversionToByte.exe
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\DataConversionToByte\bin\Debug\DataConversionToByte.pdb
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\DataConversionToByte\obj\Debug\DataConversionToByte.exe
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\DataConversionToByte\obj\Debug\DataConversionToByte.pdb

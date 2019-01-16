@@ -1,0 +1,8 @@
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\OperationMySQL\bin\Debug\OperationMySQL.exe.config
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\OperationMySQL\bin\Debug\OperationMySQL.exe
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\OperationMySQL\bin\Debug\OperationMySQL.pdb
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\OperationMySQL\bin\Debug\MySql.Data.dll
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\OperationMySQL\bin\Debug\MySql.Data.xml
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\OperationMySQL\obj\Debug\OperationMySQL.csprojResolveAssemblyReference.cache
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\OperationMySQL\obj\Debug\OperationMySQL.exe
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\OperationMySQL\obj\Debug\OperationMySQL.pdb

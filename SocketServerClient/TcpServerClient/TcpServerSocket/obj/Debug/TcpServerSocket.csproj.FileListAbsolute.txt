@@ -1,0 +1,12 @@
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerClient\bin\Debug\TcpServerClient.exe.config
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerClient\bin\Debug\TcpServerClient.exe
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerClient\bin\Debug\TcpServerClient.pdb
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerClient\obj\Debug\TcpServerSocket.csprojResolveAssemblyReference.cache
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerClient\obj\Debug\TcpServerClient.exe
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerClient\obj\Debug\TcpServerClient.pdb
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerSocket\bin\Debug\TcpServerClient.exe.config
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerSocket\obj\Debug\TcpServerClient.exe
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerSocket\obj\Debug\TcpServerClient.pdb
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerSocket\bin\Debug\TcpServerClient.exe
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerSocket\bin\Debug\TcpServerClient.pdb
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpServerSocket\obj\Debug\TcpServerSocket.csprojResolveAssemblyReference.cache

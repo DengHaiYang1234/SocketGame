@@ -1,0 +1,6 @@
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpClientSocket\bin\Debug\TcpClientSocket.exe.config
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpClientSocket\bin\Debug\TcpClientSocket.exe
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpClientSocket\bin\Debug\TcpClientSocket.pdb
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpClientSocket\obj\Debug\TcpClientSocket.exe
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpClientSocket\obj\Debug\TcpClientSocket.pdb
+D:\MyGames\002.SocketGame\SocketServerClient\TcpServerClient\TcpClientSocket\obj\Debug\TcpClientSocket.csprojResolveAssemblyReference.cache
